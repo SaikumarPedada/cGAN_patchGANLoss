@@ -1,0 +1,150 @@
+Epoch 1/50:
+Generator Loss: 83.5894
+Discriminator Loss: 0.7101
+Epoch 2/50: 100%
+Generator Loss: 40.3450
+Discriminator Loss: 0.6226
+Epoch 3/50:
+Generator Loss: 27.0303
+Discriminator Loss: 0.4229
+Epoch 4/50:
+Generator Loss: 24.1270
+Discriminator Loss: 0.5381
+Epoch 5/50:
+Generator Loss: 23.5820
+Discriminator Loss: 0.4476
+Epoch 6/50:
+Generator Loss: 23.2802
+Discriminator Loss: 0.5074
+Epoch 7/50:
+Generator Loss: 22.8575
+Discriminator Loss: 0.4522
+Epoch 8/50:
+Generator Loss: 22.7127
+Discriminator Loss: 0.4395
+Epoch 9/50:
+Generator Loss: 22.0612
+Discriminator Loss: 0.4409
+Epoch 10/50:
+Generator Loss: 22.1188
+Discriminator Loss: 0.3857
+Epoch 11/50:
+Generator Loss: 21.7838
+Discriminator Loss: 0.3635
+Epoch 12/50:
+Generator Loss: 21.7121
+Discriminator Loss: 0.3501
+Epoch 13/50:
+Generator Loss: 21.5949
+Discriminator Loss: 0.3481
+Epoch 14/50:
+Generator Loss: 21.2693
+Discriminator Loss: 0.3348
+Epoch 15/50:
+Generator Loss: 21.0908
+Discriminator Loss: 0.3454
+Epoch 16/50:
+Generator Loss: 20.8321
+Discriminator Loss: 0.3444
+Epoch 17/50:
+Generator Loss: 20.5379
+Discriminator Loss: 0.3617
+Epoch 18/50:
+Generator Loss: 20.8864
+Discriminator Loss: 0.2520
+Epoch 19/50:
+Generator Loss: 20.7122
+Discriminator Loss: 0.3887
+Epoch 20/50:
+Generator Loss: 20.3525
+Discriminator Loss: 0.3750
+Epoch 21/50:
+Generator Loss: 20.2884
+Discriminator Loss: 0.3538
+Epoch 22/50:
+Generator Loss: 19.7260
+Discriminator Loss: 0.4486
+Epoch 23/50:
+Generator Loss: 20.1537
+Discriminator Loss: 0.3624
+Epoch 24/50:
+Generator Loss: 19.8373
+Discriminator Loss: 0.4677
+Epoch 25/50:
+Generator Loss: 19.3984
+Discriminator Loss: 0.4307
+Epoch 26/50:
+Generator Loss: 19.2727
+Discriminator Loss: 0.3705
+Epoch 27/50:
+Generator Loss: 19.1005
+Discriminator Loss: 0.4128
+Epoch 28/50:
+Generator Loss: 18.8580
+Discriminator Loss: 0.3915
+Epoch 29/50:
+Generator Loss: 20.2735
+Discriminator Loss: 0.2866
+Epoch 30/50:
+Generator Loss: 18.8485
+Discriminator Loss: 0.4041
+Epoch 31/50:
+Generator Loss: 18.7825
+Discriminator Loss: 0.3745
+Epoch 32/50:
+Generator Loss: 18.2285
+Discriminator Loss: 0.4273
+Epoch 33/50:
+Generator Loss: 17.9658
+Discriminator Loss: 0.4437
+Epoch 34/50:
+Generator Loss: 17.8170
+Discriminator Loss: 0.4195
+Epoch 35/50:
+Generator Loss: 17.5641
+Discriminator Loss: 0.4509
+Epoch 36/50:
+Generator Loss: 17.2196
+Discriminator Loss: 0.5019
+Epoch 37/50:
+Generator Loss: 17.1220
+Discriminator Loss: 0.5079
+Epoch 38/50:
+Generator Loss: 17.0479
+Discriminator Loss: 0.4981
+Epoch 39/50:
+Generator Loss: 16.6393
+Discriminator Loss: 0.5365
+Epoch 40/50:
+Generator Loss: 16.4406
+Discriminator Loss: 0.5637
+Epoch 41/50:
+Generator Loss: 16.2577
+Discriminator Loss: 0.5747
+Epoch 42/50:
+Generator Loss: 16.0474
+Discriminator Loss: 0.6005
+Epoch 43/50:
+Generator Loss: 15.9141
+Discriminator Loss: 0.6190
+Epoch 44/50:
+Generator Loss: 15.7636
+Discriminator Loss: 0.6254
+Epoch 45/50:
+Generator Loss: 15.6775
+Discriminator Loss: 0.6359
+Epoch 46/50:
+Generator Loss: 15.6163
+Discriminator Loss: 0.6387
+Epoch 47/50:
+Generator Loss: 15.5416
+Discriminator Loss: 0.6460
+Epoch 48/50:
+Generator Loss: 15.5145
+Discriminator Loss: 0.6404
+Epoch 49/50:
+Generator Loss: 15.5013
+Discriminator Loss: 0.6503
+Epoch 50/50:
+Generator Loss: 15.4806
+Discriminator Loss: 0.6393

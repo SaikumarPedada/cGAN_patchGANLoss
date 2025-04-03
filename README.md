@@ -8,7 +8,7 @@ saves the model in stereo_gan_Adv_models folder:
 Training_info is about the loss of generator and discriminator for which the model trained over 50 epochs in google colab environment with T4 GPU.
 # Note:
       The potential training required for accurate results need over 200+ epochs could be achieved only with the help of A100 (or similar) GPU. can also include various datasets along side of KITTI stereo 2015 such as Middlebury Stereo Dataset, SceneFlow, ETH3D Stereo Dataset, MPI-Sintel Stereo Dataset, TartanAir Stereo Dataset, ApolloScape Stereo Dataset..
-# Testing te model:
+# Testing the model:
 cGAN.py is the model trained and saves the model weights as described
 stereo_right_view.py is the model to test by loading the weights saved in stereo_gan_Adv_models folder
 
